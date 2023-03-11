@@ -85,3 +85,14 @@
   .signup {
     margin-left: auto;
   }
+  a {
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+    margin-top: 40px;
+  }
+  p {
+    background-color:  #5995DA;
+    padding: 20px;
+    font-size: 30px;
+  }

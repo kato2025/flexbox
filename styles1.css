@@ -133,3 +133,11 @@ body {
 .frbox{
     margin-left: 4px;
 }
+a {
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+  }
+p {
+    font-size: 30px;
+}
